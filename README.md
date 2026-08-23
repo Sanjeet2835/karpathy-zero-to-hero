@@ -5,10 +5,9 @@ Working through Andrej Karpathy's
 
 | Lecture | Topic | Status |
 |---|---|---|
-| 1 | micrograd — backprop from scratch | ✅ Complete |
+| 1 | micrograd — backprop from scratch | [Complete](https://github.com/Sanjeet2835/karpathy-zero-to-hero/blob/main/01_micrograd/micrograd_exercises.ipynb) |
 | 2 | makemore | 🔜 |
 
 ## Notes
 
 Solutions are my own work built on top of Karpathy's starter code and exercises.
-The original lecture notebooks are linked inside each file.
